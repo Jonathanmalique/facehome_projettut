@@ -4,4 +4,4 @@ Dans le cadre de notre projet tutoré de 4ème année à l'INSA de Toulouse, nou
 J'ai, durant ce projet, été en charge de concevoir l'application Androïd qui envoie des requêtes HTTP à OM2M de manière à ce que l’ESP et la carte Edison puissent lire les nouvelles tâches à effectuer. Pour le développement de l’application, j'ai utilisé une tablette Android avec le logiciel de conception Android Studio (code en Java et xml) et les requêtes http.
 
 Voici un rapide aperçu du rendu de l'application :
-![Captures de l'application](https://github.com/Jonathanmalique/facehome_projettut.git/Capture.jpg)
+![Captures de l'application](https://github.com/Jonathanmalique/facehome_projettut.git/Capture.JPG)
